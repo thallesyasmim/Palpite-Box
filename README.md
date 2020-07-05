@@ -27,7 +27,7 @@
   
 ![palpite](https://user-images.githubusercontent.com/62181023/86538090-2b754b80-beca-11ea-9944-e20b9bbdf730.png)
   
-  <h4 align="center">O PalpiteBox é um projeto onde os clientes do determinado estabelecimento possam dar opiniões ou sugestões sobre o próprio estabelecimento recebendo ou não promoções e cupons de desconto por exemplo. </h4>
+  <h4 align="center">O PalpiteBox é um projeto onde os clientes de um determinado estabelecimento podem dar opiniões ou sugestões sobre este estabelecimento recebendo em troca promoções e cupons de desconto. </h4>
   
   <h1 align="center">Desenvolvido durante a Semana FullStack Master do devPleno. 🚀</h1>
 
